@@ -1,0 +1,16 @@
+{
+  "name": "custom-array-methods-useful",
+  "version": "1.0.5",
+  "description": "custom array operations simplified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "randomize",
+    "array",
+    "elements"
+  ],
+  "author": "Minazuddin",
+  "license": "ISC"
+}
